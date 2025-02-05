@@ -28,7 +28,7 @@ public class TestesImplement {
 		List<Double> y = new ArrayList<>();
 		List<Double> predictions = null;
 		LearnResult lr = new LearnResult();
-		int steps = 1500;
+		int steps = 500;
 		NeuralNet net;
 		
 		//LEITURA DE DADOS
